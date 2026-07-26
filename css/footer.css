@@ -10,3 +10,9 @@
 .footer-section .logo .web {
   color: #4d5ae5;
 }
+
+.footer-section .container {
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
