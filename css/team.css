@@ -1,0 +1,19 @@
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-list .team-card {
+  background-color: #ffff;
+}
+
+.team-section .team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+}
+
+.team-section .team-name,
+.team-section .team-role {
+  text-align: center;
+}
