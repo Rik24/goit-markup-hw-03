@@ -2,6 +2,11 @@
   background-color: #f4f4fd;
 }
 
+.team-section .container {
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+}
 .team-list .team-card {
   background-color: #ffff;
   border-radius: 0 0 4px 4px;

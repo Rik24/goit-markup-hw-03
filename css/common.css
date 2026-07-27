@@ -74,13 +74,9 @@ img {
   margin: 0 auto;
   max-width: 1158px;
   padding: 0 15px;
-  display: flex;
-  flex-direction: column;
-  gap: 72px;
 }
 
 .page-container {
-  min-height: 100 vh;
   display: flex;
   flex-direction: column;
 }
